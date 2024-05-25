@@ -10,6 +10,11 @@ revenge "hacker" apk Undangan Pernikahan atau semacamnya
 5. Run replitnya
 
 ## Cara 2 - Run di komputer sendiri
+Syarat : 
+a. Menginstall python
+b. Menginstall library requests `pip install requests`
+
+
 1. Buka command prompt
 2. run command `git clone https://github.com/lemon-cake123/apk-scammer-revenge`
 3. Tambahkan api telegram scammer ke file `ScammerApisToSpam.txt`
